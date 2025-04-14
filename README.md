@@ -9,5 +9,7 @@ Here is a video showcasing the project
 https://drive.google.com/drive/folders/174U7XTeLNBdft6PP_BX0dHKLv3_UyZCc?usp=sharing 
 
 Brando Morley
+<br>
 morleybrando@gmail.com
+<br>
 MorleyBrando on Github
